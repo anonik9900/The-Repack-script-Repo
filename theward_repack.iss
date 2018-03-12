@@ -26,6 +26,7 @@ Compression=lzma
 SolidCompression=yes
 WizardImageFile=C:\Program Files (x86)\Install Creator\Templ\hqdefault.bmp
 WizardSmallImageFile=C:\Program Files (x86)\Install Creator\Templ\hqdefault2.bmp
+DiskSpanning=True
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
